@@ -1,3 +1,5 @@
+# README Generator
+
 This project is a command-line application that generates a high-quality README.md file based on user input. It prompts the user for information about their project repository and then generates a README file with sections such as Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 
 ## Table of Contents
@@ -9,6 +11,10 @@ This project is a command-line application that generates a high-quality README.
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Description
+
+This project is a command-line application that generates a high-quality README.md file based on user input. It prompts the user for information about their project repository and then generates a README file with sections such as Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 
 ## Installation
 
@@ -30,7 +36,7 @@ To use the README.md Generator, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License.
 
 ## Contributing
 
