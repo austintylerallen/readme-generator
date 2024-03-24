@@ -65,8 +65,6 @@ function writeToFile(fileName, data) {
 // Function to generate license badge
 function renderLicenseBadge(license) {
     // Based on the license type, return the corresponding badge URL
-    // You can find badge URLs for licenses on shields.io or similar services
-    // For simplicity, we'll assume the badge URLs for each license
     switch (license) {
         case 'MIT':
             return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
@@ -79,7 +77,7 @@ function renderLicenseBadge(license) {
     }
 }
 
-// Function to generate markdown for README
+// generates markdown for README
 function generateMarkdown(data) {
     return `
 # ${data.title}
